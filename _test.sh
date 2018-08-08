@@ -1,0 +1,1 @@
+node ./bin/cli.js --pg-host localhost --pg-user postgres --pg-password postgres --pg-database postgres --pg-schema public -b 'http://mydomain.com/schema/' -o ./_out/
